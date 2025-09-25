@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modern Todo</string>
+    
+    <!-- Widget Strings -->
+    <string name="widget_description">Quick access to your tasks</string>
+    <string name="refresh_tasks">Refresh tasks</string>
+    <string name="add_task">Add task</string>
+    <string name="toggle_task_completion">Toggle task completion</string>
+    <string name="no_tasks">No tasks</string>
+    <string name="no_tasks_today">No tasks for today</string>
+    <string name="tap_add_to_create_task">Tap + to create a task</string>
+    <string name="error">Error</string>
+    <string name="widget_error_message">Unable to load tasks</string>
+    <string name="tap_to_open_app">Tap to open app</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    
+    <!-- Task Management -->
+    <string name="add_new_task">Add New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description</string>
+    <string name="task_category">Category</string>
+    <string name="task_priority">Priority</string>
+    <string name="due_date">Due Date</string>
+    <string name="due_time">Due Time</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="save_task">Save Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="mark_incomplete">Mark Incomplete</string>
+    <string name="archive_task">Archive Task</string>
+    
+    <!-- Categories -->
+    <string name="category_personal">Personal</string>
+    <string name="category_work">Work</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_health">Health</string>
+    <string name="category_learning">Learning</string>
+    <string name="category_other">Other</string>
+    
+    <!-- Priorities -->
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="priority_urgent">Urgent</string>
+    
+    <!-- Filters -->
+    <string name="filter_all">All Tasks</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_completed">Completed</string>
+    <string name="filter_archived">Archived</string>
+    <string name="filter_due_today">Due Today</string>
+    <string name="filter_overdue">Overdue</string>
+    
+    <!-- Search -->
+    <string name="search_tasks">Search tasks...</string>
+    <string name="clear_search">Clear search</string>
+    <string name="no_search_results">No tasks found</string>
+    
+    <!-- Statistics -->
+    <string name="total_tasks">Total Tasks</string>
+    <string name="completed_tasks">Completed</string>
+    <string name="active_tasks">Active</string>
+    <string name="overdue_tasks">Overdue</string>
+    <string name="completion_rate">Completion Rate</string>
+    
+    <!-- Settings -->
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_description">Follow system setting or choose manually</string>
+    <string name="notifications">Notifications</string>
+    <string name="task_reminders">Task Reminders</string>
+    <string name="task_reminders_description">Get notified about due tasks</string>
+    <string name="daily_summary">Daily Summary</string>
+    <string name="daily_summary_description">Daily overview of tasks at %1$s</string>
+    <string name="data_management">Data Management</string>
+    <string name="auto_archive_completed">Auto-archive Completed</string>
+    <string name="auto_archive_description">Automatically archive completed tasks after 7 days</string>
+    <string name="clear_archived_tasks">Clear Archived Tasks</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    
+    <!-- Onboarding -->
+    <string name="welcome_title">Welcome to Modern Todo</string>
+    <string name="welcome_description">Stay organized and boost your productivity with our intuitive task management app. Create, organize, and track your tasks effortlessly.</string>
+    <string name="organization_title">Smart Organization</string>
+    <string name="organization_description">Categorize your tasks by work, personal, shopping, and more. Set priorities and due dates to never miss important deadlines.</string>
+    <string name="reminders_title">Never Forget Again</string>
+    <string name="reminders_description">Set reminders for your important tasks and get notifications when they\'re due. Stay on top of your schedule with smart alerts.</string>
+    <string name="widget_title">Quick Access Widget</string>
+    <string name="widget_onboarding_description">Add our home screen widget to quickly view and manage your tasks without opening the app. Perfect for busy schedules!</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    
+    <!-- Error Messages -->
+    <string name="error_title_empty">Title cannot be empty</string>
+    <string name="error_loading_tasks">Failed to load tasks</string>
+    <string name="error_saving_task">Failed to save task</string>
+    <string name="error_deleting_task">Failed to delete task</string>
+    <string name="error_unknown">Unknown error occurred</string>
+    
+    <!-- Success Messages -->
+    <string name="task_saved">Task saved successfully</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="task_completed">Task marked as complete</string>
+    <string name="task_archived">Task archived</string>
+    
+    <!-- Accessibility -->
+    <string name="content_description_task_priority">Priority: %1$s</string>
+    <string name="content_description_task_category">Category: %1$s</string>
+    <string name="content_description_due_date">Due: %1$s</string>
+    <string name="content_description_completed_task">Completed task</string>
+    <string name="content_description_incomplete_task">Incomplete task</string>
+    
+    <!-- Date and Time -->
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="no_due_date">No due date</string>
+    <string name="no_specific_time">No specific time</string>
+    <string name="overdue">Overdue</string>
+    
+    <!-- Actions -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="done">Done</string>
+    <string name="clear">Clear</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="archive">Archive</string>
+    <string name="restore">Restore</string>
+    <string name="share">Share</string>
+    
+    <!-- Empty States -->
+    <string name="empty_tasks_title">No tasks yet</string>
+    <string name="empty_tasks_description">Tap the + button to create your first task</string>
+    <string name="empty_completed_tasks">No completed tasks</string>
+    <string name="empty_archived_tasks">No archived tasks</string>
+    <string name="empty_search_results">No tasks match your search</string>
+    
+    <!-- Plurals -->
+    <plurals name="task_count">
+        <item quantity="zero">No tasks</item>
+        <item quantity="one">1 task</item>
+        <item quantity="other">%d tasks</item>
+    </plurals>
+    
+    <plurals name="days_overdue">
+        <item quantity="one">1 day overdue</item>
+        <item quantity="other">%d days overdue</item>
+    </plurals>
+</resources>
